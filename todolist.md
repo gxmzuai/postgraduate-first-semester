@@ -8,5 +8,4 @@
 
 via: https://nic.gxmzu.edu.cn/szhxy/szhxysyzn.htm
 
-- 报道时将党员关系转接表上交，并将转接表回执拍照，qq发给南晓潘老师。
 - 尝试使用南京晓庄学院账号登录广西民族大学的eduroam。
