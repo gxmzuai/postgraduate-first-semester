@@ -8,9 +8,13 @@
 
 via: https://nic.gxmzu.edu.cn/szhxy/szhxysyzn.htm
 
-- 尝试使用南京晓庄学院账号登录广西民族大学的eduroam。
+所有类型的邮箱账号，自开通之日起，180天内无活动记录则自动停用。停用后的账户，需要再次使用的，由用户本人持身份证原件到相思湖校区科技楼208室申请办理开通手续。
 
-- 团组织关系转接（晚上6点去102上交团员证）
+![](https://vip2.loli.io/2023/10/25/86zXrhoNbjpvRBf.webp)
+
+via：https://nic.gxmzu.edu.cn/info/1054/65272.htm
+
+- 尝试使用南京晓庄学院账号登录广西民族大学的eduroam。
 
 - 研一上半学期完成李沐[《动手学深度学习》第二版](https://zh.d2l.ai)的学习，有多余时间可以学习[Pytorch](https://pytorch.org)和[Tensorflow](https://www.tensorflow.org)，
 
